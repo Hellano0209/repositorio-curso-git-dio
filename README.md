@@ -9,8 +9,9 @@ Repositório criado para acompanhar o curso de Git e GitHub da plataforma DIO.
 <br>
 
 ## Conteúdo abordado
-|Nº|Conteúdo|
-|1|Visão Geral do Curso e Ferramentas|
-|2|Instalação, Configuração e Autenticação|
-|3|Primeiros Passos com Git e GitHub|
-|4|Dicas e Materiais de Apoio|
+| Nº | Conteúdo |
+|----|----------|
+| 1 | Visão Geral do Curso e Ferramentas |
+| 2 | Instalação, Configuração e Autenticação |
+| 3 | Primeiros Passos com Git e GitHub |
+| 4 | Dicas e Materiais de Apoio |
