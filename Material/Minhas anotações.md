@@ -6,10 +6,10 @@
 
 ### Configuração inicial do repositório local
 
-* Definindo o nome do usuário: git config --global user.name "Hellano0209"
-* Definindo e-mail do usuário:  git config --global user.email hellano.vda@gmail.com
-* Definindo a Branch padrão: git config --global init.defaultBranch main
-* Retornando as configurações globais: git config --global --list
+* Definindo o nome do usuário: **git config --global user.name "Hellano0209"**
+* Definindo e-mail do usuário:  **git config --global user.email hellano.vda@gmail.com**
+* Definindo a Branch padrão: **git config --global init.defaultBranch main**
+* Retornando as configurações globais: **git config --global --list**
 
 ### Criando um repositório local
 
