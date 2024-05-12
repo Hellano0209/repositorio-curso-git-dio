@@ -1,5 +1,5 @@
 <h1>
-    <span> Versionamento de Código com Git e GitHub</span>
+    <span> Curso de Versionamento de Código com Git e GitHub</span>
 </h1>
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
